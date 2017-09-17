@@ -1,0 +1,2 @@
+kicad module for poleedaglot
+============================
